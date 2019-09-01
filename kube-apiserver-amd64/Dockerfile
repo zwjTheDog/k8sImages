@@ -1,2 +1,2 @@
-k8s.gcr.io/kube-apiserver-amd64:v1.14.3
+k8s.gcr.io/kube-apiserver:v1.15.3
 
